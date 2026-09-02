@@ -193,8 +193,8 @@ B.Tech Student | Aspiring Data Analyst
 
 ### 📫 Connect With Me
 
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
+- GitHub: (https://github.com/AKASHPATEL-89)
+- LinkedIn:https://www.linkedin.com/in/akash-singh-347a8a318/
 
 ---
 
