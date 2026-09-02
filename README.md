@@ -182,3 +182,20 @@ CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS/
 └── images/
     ├── dashboard-page-1.png
     └── dashboard-page-2.png
+
+
+
+## 👨‍💻 Author
+
+**Akash Singh**
+
+B.Tech Student | Aspiring Data Analyst
+
+### 📫 Connect With Me
+
+- GitHub: Add your GitHub profile link
+- LinkedIn: Add your LinkedIn profile link
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
