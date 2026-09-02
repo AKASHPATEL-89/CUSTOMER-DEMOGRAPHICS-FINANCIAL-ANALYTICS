@@ -194,14 +194,14 @@ CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS/
 
 ## 👨‍💻 Author
 
-**Akash Singh**
+**Akash Singh**  
 B.Tech Student | Aspiring Data Analyst
 
 ### 📫 Connect With Me
 
-* **GitHub:** <a href="https://github.com/AKASHPATEL-89" target="_blank">AKASHPATEL-89</a>
-* **LinkedIn:** <a href="https://www.linkedin.com/in/akash-singh-347a8a318/" target="_blank">Akash Singh</a>
+- **GitHub:** [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
+- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
 
 ---
 
-⭐ If you found this project useful, feel free to ⭐ **star the repository!**
+⭐ If you found this project useful, feel free to **star the repository!**
