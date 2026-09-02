@@ -167,11 +167,11 @@ The dashboard helps answer important business questions such as:
 
 ## Customer Overview
 
-![Customer Overview](images/dashboard-page-1.png)
+![Customer Overview](dashboard-page-1.png)
 
 ## Detailed Customer Analysis
 
-![Detailed Customer Analysis](images/dashboard-page-2.png)
+![Detailed Customer Analysis](dashboard-page-2.png)
 
 ---
 
