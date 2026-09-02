@@ -163,9 +163,17 @@ The dashboard helps answer important business questions such as:
 
 ![Customer Overview](dashboard-page-1.png)
 
-### Detailed Customer Analysis
+![Customer Overview 2](dashboard-page-2.png)
 
-![Detailed Customer Analysis](customer_Dashboard.pbit)
+---
+
+## 📊 Power BI Dashboard File
+
+The Power BI dashboard file is available in this repository:
+
+📁 `customer_Dashboard.pbit`
+
+---
 
 ---
 
