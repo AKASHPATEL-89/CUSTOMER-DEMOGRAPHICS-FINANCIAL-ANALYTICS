@@ -201,8 +201,8 @@ B.Tech Student | Aspiring Data Analyst
 
 ### 📫 Connect With Me
 
-- GitHub: (https://github.com/AKASHPATEL-89)
-- LinkedIn:https://www.linkedin.com/in/akash-singh-347a8a318/
+- GitHub: [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
+- LinkedIn: [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
 
 ---
 
