@@ -174,9 +174,9 @@ The dashboard helps answer important business questions such as:
 ```text
 CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS/
 │
-├── Customer_Demographics_Financial_Analytics.pbix
+├── customer_Dashboard.pbit
 ├── customer.csv
-├── customer_Dashboard.pdf
+├── dashboard-page-1.pdf
 ├── README.md
 │
 └── images/
