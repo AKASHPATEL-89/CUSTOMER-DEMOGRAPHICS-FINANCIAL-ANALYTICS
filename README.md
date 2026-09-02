@@ -1,5 +1,3 @@
-# CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS
-
 # 📊 Customer Demographics & Financial Analytics Dashboard
 
 ## 📌 Project Overview
@@ -12,14 +10,14 @@ The project focuses on data cleaning, transformation, analysis, and visualizatio
 
 ## 🎯 Project Objectives
 
-- Clean and transform raw customer data using Power Query.
-- Analyze customer demographics and behavior.
-- Analyze customer income and age distribution.
-- Understand education and job profiles.
-- Analyze personal loan distribution.
-- Compare house and car ownership.
-- Analyze customer satisfaction scores.
-- Identify customer distribution across different states.
+* Clean and transform raw customer data using Power Query.
+* Analyze customer demographics and behavior.
+* Analyze customer income and age distribution.
+* Understand education and job profiles.
+* Analyze personal loan distribution.
+* Compare house and car ownership.
+* Analyze customer satisfaction scores.
+* Identify customer distribution across different states.
 
 ---
 
@@ -27,147 +25,157 @@ The project focuses on data cleaning, transformation, analysis, and visualizatio
 
 The dashboard includes the following KPIs:
 
-- 👥 Total Customers
-- 💰 Average Income
-- 🎂 Average Customer Age
-- ⭐ Average Customer Satisfaction Score
-- 🏠 Total House Owners
-- 🚗 Total Car Owners
+* 👥 **Total Customers**
+* 💰 **Average Income**
+* 🎂 **Average Customer Age**
+* ⭐ **Average Customer Satisfaction Score**
+* 🏠 **Total House Owners**
+* 🚗 **Total Car Owners**
 
 ---
 
-## 📈 Dashboard Analysis
+# 📈 Dashboard Analysis
 
-### Customer Demographics
+## 👥 Customer Demographics
 
-- Customers by Gender
-- Customers by Age
-- Customers by Education Level
-- Customers by Marital Status
-- Customers by State
-
-### Financial Analysis
-
-- Average Income Analysis
-- Personal Loan Distribution
-- House Ownership Analysis
-- Car Ownership Analysis
-
-### Employment Analysis
-
-- Customers by Job Category
-- Average Age by Customer Job
-- Education Level by Customer Job
-
-### Customer Satisfaction Analysis
-
-- Customer Satisfaction Score Distribution
-- Customer Job and Satisfaction Analysis
-- Education Level and Satisfaction Analysis
+* Customers by Gender
+* Customers by Age
+* Customers by Education Level
+* Customers by Marital Status
+* Customers by State
 
 ---
 
-## 🧹 Data Cleaning
+## 💰 Financial Analysis
+
+* Average Income Analysis
+* Personal Loan Distribution
+* House Ownership Analysis
+* Car Ownership Analysis
+
+---
+
+## 💼 Employment Analysis
+
+* Customers by Job Category
+* Average Age by Customer Job
+* Education Level by Customer Job
+
+---
+
+## ⭐ Customer Satisfaction Analysis
+
+* Customer Satisfaction Score Distribution
+* Customer Job and Satisfaction Analysis
+* Education Level and Satisfaction Analysis
+
+---
+
+# 🧹 Data Cleaning
 
 Data cleaning and transformation were performed using **Power Query**.
 
 The following steps were performed:
 
-- Checked for missing values.
-- Checked and removed duplicate records.
-- Corrected data types.
-- Renamed columns where required.
-- Removed unnecessary data.
-- Prepared the dataset for analysis and visualization.
+* Checked for missing values.
+* Checked and removed duplicate records.
+* Corrected data types.
+* Renamed columns where required.
+* Removed unnecessary data.
+* Prepared the dataset for analysis and visualization.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Transformation
-- Data Analysis
-- Data Visualization
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Data Visualization
 
 ---
 
-## 📂 Dataset Features
+# 📂 Dataset Features
 
 The dataset contains customer-related information including:
 
-- Client Number
-- Customer Age
-- Gender
-- Income
-- Education Level
-- Customer Job
-- Marital Status
-- Personal Loan
-- House Owner
-- Car Owner
-- Customer Satisfaction Score
-- State
+* Client Number
+* Customer Age
+* Gender
+* Income
+* Education Level
+* Customer Job
+* Marital Status
+* Personal Loan
+* House Owner
+* Car Owner
+* Customer Satisfaction Score
+* State
 
 ---
 
-## 📄 Dashboard Pages
+# 📄 Dashboard Pages
 
-### Page 1: Customer Overview
+## 📊 Page 1: Customer Overview
 
 This page provides an overall analysis of customers, including:
 
-- Key Performance Indicators
-- Customer Age Distribution
-- Gender Distribution
-- Education Level Analysis
-- Customer Satisfaction Score
-- Personal Loan Distribution
-- State-wise Customer Distribution
-- House and Car Ownership
+* Key Performance Indicators
+* Customer Age Distribution
+* Gender Distribution
+* Education Level Analysis
+* Customer Satisfaction Score
+* Personal Loan Distribution
+* State-wise Customer Distribution
+* House and Car Ownership
 
-### Page 2: Detailed Customer Analysis
+---
+
+## 📈 Page 2: Detailed Customer Analysis
 
 This page provides deeper customer insights, including:
 
-- Customers by Marital Status
-- Customers by Job
-- Average Age by Customer Job
-- Education Level by State
-- Customer Job and Satisfaction Analysis
-- Education Level by Customer Job
+* Customers by Marital Status
+* Customers by Job
+* Average Age by Customer Job
+* Education Level by State
+* Customer Job and Satisfaction Analysis
+* Education Level by Customer Job
 
 ---
 
-## 💡 Key Insights
+# 💡 Key Insights
 
 The dashboard helps answer important business questions such as:
 
-- What is the average income of customers?
-- What is the average age of customers?
-- What is the gender distribution of customers?
-- Which education levels have the highest number of customers?
-- Which job categories have the most customers?
-- How many customers have personal loans?
-- How many customers own houses and cars?
-- Which states have the highest number of customers?
-- What is the overall customer satisfaction score?
+* What is the average income of customers?
+* What is the average age of customers?
+* What is the gender distribution of customers?
+* Which education levels have the highest number of customers?
+* Which job categories have the most customers?
+* How many customers have personal loans?
+* How many customers own houses and cars?
+* Which states have the highest number of customers?
+* What is the overall customer satisfaction score?
 
 ---
 
-## 📸 Dashboard Preview
+# 📸 Dashboard Preview
 
-### Customer Overview
+## Customer Overview
 
-![Customer Overview](dashboard-page-1.png)
+![Customer Overview](images/dashboard-page-1.png)
 
-![Customer Overview 2](dashboard-page-2.png)
+## Detailed Customer Analysis
+
+![Detailed Customer Analysis](images/dashboard-page-2.png)
 
 ---
 
-## 📊 Power BI Dashboard File
+# 📊 Power BI Dashboard File
 
 The Power BI dashboard file is available in this repository:
 
@@ -175,9 +183,7 @@ The Power BI dashboard file is available in this repository:
 
 ---
 
----
-
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```text
 CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS/
@@ -190,18 +196,24 @@ CUSTOMER-DEMOGRAPHICS-FINANCIAL-ANALYTICS/
 └── images/
     ├── dashboard-page-1.png
     └── dashboard-page-2.png
+```
 
+---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Akash Singh**  
+**Akash Singh**
 B.Tech Student | Aspiring Data Analyst
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- **GitHub:** [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
-- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
+* **GitHub:** [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
+* **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
 
 ---
 
 ⭐ If you found this project useful, feel free to **star the repository!**
+
+# 📌 Thank You!
+
+Thank you for visiting this project. Your feedback and suggestions are always welcome! 😊
